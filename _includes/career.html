@@ -13,10 +13,10 @@
                 {% assign loopindex = forloop.index | modulo: 2 %}
                     <div class="vertical-timeline-block">
                         <div class="vertical-timeline-content wow {% if loopindex == 1 %} rotateInUpRight {% else %} rotateInUpLeft {% endif %}">
-                            <h2><span data-i18n="career.{{ career.name.i18n }}">{{ career.name.detail }}</span></h2>
-                            <span class="vertical-date"><span data-i18n="career.{{ career.date.i18n }}"> {{ career.date.detail }} </span>
-                            <br/><span data-i18n="career.{{ career.job.i18n }}">{{ career.job.detail }}</span></span>
-                            <p><span data-i18n="career.{{ career.desc.i18n }}">{{ career.desc.detail }} </span></p>
+                            <h2 class="career-company"><span data-i18n="career.{{ career.name.i18n }}">{{ career.name.detail }}</span></h2>
+                            <span class="vertical-date"><span class="career-date" data-i18n="career.{{ career.date.i18n }}"> {{ career.date.detail }} </span>
+                            <br/><span class="career-title" data-i18n="career.{{ career.job.i18n }}">{{ career.job.detail }}</span></span>
+                            <p><span class="career-desc" data-i18n="career.{{ career.desc.i18n }}">{{ career.desc.detail }} </span></p>
                         </div>
                     </div>
                 {% endfor %}

@@ -185,6 +185,10 @@ section.success {
     background: #{{ site.color.secondary }};
 }
 
+section#contact {
+    background: #588BAE;
+}
+
 @media(max-width:767px) {
     section {
         padding: 75px 0;
