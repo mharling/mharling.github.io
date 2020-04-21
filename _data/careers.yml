@@ -111,7 +111,7 @@
   icon: fa-clock-o
 
 - name:
-    detail: Unviersity of Manchester
+    detail: University of Manchester
     i18n: college_msc
   desc:
     detail: M.Sc. BioHealth Informatics
@@ -124,7 +124,7 @@
     i18n: college_job_msc
   icon: fa-book
 - name:
-    detail: Unviersity of Manchester
+    detail: University of Manchester
     i18n: college
   desc:
     detail: B.Sc. (Hons) Computing for Business Applications

@@ -36,6 +36,14 @@ h6 {
     font-weight: 700;
 }
 
+h2.career-company {
+    font-size: 1.5em;
+}
+
+span.career-desc {
+    font-size: 0.75em;
+}
+
 hr.star-light,
 hr.star-primary {
     margin: 25px auto 30px;
