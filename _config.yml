@@ -33,9 +33,9 @@ color:
 # Footer settings
 footer:
   copyright: M. A. Harling
-  location: Location
+  location: 
   social: Around the Web
-  credits: Something
+  credits: 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -48,11 +48,10 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 
 
 # Build settings
 markdown: kramdown
