@@ -1,5 +1,5 @@
 - name:
-    detail: Nova
+    detail: Nova Ltd.
     i18n: nova
   desc:
     detail: Designing and implementing analytics and reporting solutions for the Bermuda Hospitals Board together with Bermuda based financial services organisations.
@@ -11,11 +11,12 @@
     detail: Senior Business Intelligence Architect
     i18n: nova_job
   icon: fa-bar-chart
-- name:
+
+- name: 
     detail: CACI Ltd.
     i18n: caci
   desc:
-    detail: Promoted from a Managing Consultant and taking overall responsibility for projects together with delivering consultancy and pre-sales in a client facing role. I am one of the business unit's senior project leads and I have the managerial lead role in many projects with responsibility for projects with budgets from £250,000 to £1m.
+    detail: "Promoted from a Managing Consultant and taking overall responsibility for projects together with delivering consultancy and pre-sales in a client facing role. I am one of the business unit's senior project leads and I have the managerial lead role in many projects with responsibility for projects with budgets from £250,000 to £1m."
     i18n: caci_des
   date:
     detail: Apr. 2017 to Feb. 2018
@@ -24,7 +25,8 @@
     detail: Principal Consultant
     i18n: caci_job
   icon: fa-lightbulb-o
-  - name:
+
+- name:
     detail: CACI Ltd.
     i18n: caci
   desc:
@@ -51,6 +53,7 @@
     detail: Senior Consultant
     i18n: caci_job
   icon: fa-lightbulb-o
+
 - name:
     detail: AO.com
     i18n: ao
@@ -64,6 +67,7 @@
     detail: Information Engineer
     i18n: ao_job
   icon: fa-gbp
+
 - name:
     detail: AO.com (formerly DRL Limited)
     i18n: drl
@@ -77,6 +81,7 @@
     detail: Business Intelligence Developer
     i18n: drl_job
   icon: fa-line-chart
+
 - name:
     detail: The Christie NHS Foundation Trust
     i18n: christie
@@ -90,6 +95,7 @@
     detail: Information Officer
     i18n: christie_job
   icon: fa-line-chart
+
 - name:
     detail: Pennine Acute Hospitals NHS Trust
     i18n: pennine
@@ -103,6 +109,7 @@
     detail: IT Support Developer
     i18n: pennine_job
   icon: fa-clock-o
+
 - name:
     detail: Unviersity of Manchester
     i18n: college_msc
