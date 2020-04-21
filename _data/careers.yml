@@ -5,13 +5,12 @@
     detail: Designing and implementing analytics and reporting solutions for the Bermuda Hospitals Board together with Bermuda based financial services organisations.
     i18n: nova_des
   date:
-    detail: Feb. 2018 - Date
+    detail: Feb. 2018 to date
     i18n: nova_date
   job:
     detail: Senior Business Intelligence Architect
     i18n: nova_job
   icon: fa-bar-chart
-
 - name:
     detail: CACI Ltd.
     i18n: caci
@@ -19,13 +18,12 @@
     detail: Promoted from a Managing Consultant and taking overall responsibility for projects together with delivering consultancy and pre-sales in a client facing role. I am one of the business unit's senior project leads and I have the managerial lead role in many projects with responsibility for projects with budgets from £250,000 to £1m.
     i18n: caci_des
   date:
-    detail: Apr. 2017 - Feb. 2018
+    detail: Apr. 2017 to Feb. 2018
     i18n: caci_date
   job:
     detail: Principal Consultant
     i18n: caci_job
   icon: fa-lightbulb-o
-
   - name:
     detail: CACI Ltd.
     i18n: caci
@@ -33,7 +31,7 @@
     detail: Promoted from a Senior Consultant and taking greater responsibilities for project deliverables whilst still delivering in a client facing role.
     i18n: caci_des
   date:
-    detail: Apr. 2016 - Apr. 2017
+    detail: Apr. 2016 t0 Apr. 2017
     i18n: caci_date
   job:
     detail: Managing Consultant
@@ -47,13 +45,12 @@
     detail: Working as a customer facing consultant, delivering projects across the Business Intelligence space.
     i18n: caci_des
   date:
-    detail: Nov. 2014 - Apr. 2016
+    detail: Nov. 2014 to Apr. 2016
     i18n: caci_date
   job:
     detail: Senior Consultant
     i18n: caci_job
   icon: fa-lightbulb-o
-
 - name:
     detail: AO.com
     i18n: ao
@@ -61,13 +58,12 @@
     detail: Working as part of a specialist three person team taking a data driven statistical approach to the analysis of the company’s data sets to provide insight and understanding to the wider business using a variety of Machine Learning and statistical techniques.
     i18n: ao_des
   date:
-    detail: Oct. 2013 - Nov. 2014
+    detail: Oct. 2013 to Nov. 2014
     i18n: ao_date
   job:
     detail: Information Engineer
     i18n: ao_job
   icon: fa-gbp
-
 - name:
     detail: AO.com (formerly DRL Limited)
     i18n: drl
@@ -75,13 +71,12 @@
     detail: I was part of a four person team responsible for all the reporting needs of the business as well as developing and driving the Business Intelligence strategy forward.
     i18n: drl_des
   date:
-    detail: Aug. 2011 - Oct. 2013
+    detail: Aug. 2011 to Oct. 2013
     i18n: drl_date
   job:
     detail: Business Intelligence Developer
     i18n: drl_job
   icon: fa-line-chart
-
 - name:
     detail: The Christie NHS Foundation Trust
     i18n: christie
@@ -89,13 +84,12 @@
     detail: Part of a team of four responsible for the internal and external reporting of clinical and business information. I was the trusts Information Lead for the nationally mandated Radiotherapy Dataset, also the Information lead for Cancer Centre Services responsible for all reporting for the surgical theatres, Radiotherapy and Chemotherapy Departments.
     i18n: christie_des
   date:
-    detail: Mar. 2010 - Aug. 2011
+    detail: Mar. 2010 to Aug. 2011
     i18n: christie_date
   job:
     detail: Information Officer
     i18n: christie_job
   icon: fa-line-chart
-
 - name:
     detail: Pennine Acute Hospitals NHS Trust
     i18n: pennine
@@ -103,13 +97,12 @@
     detail: Part of a small team of three to develop, test and deploy interfaces between different departmental systems, the Trusts patient administration system and the regional patient administration system delivered as part of the National Programme for IT. Upon leaving I was the trust interface and testing lead for the joint Symphony SCR release.
     i18n: pennine_des
   date:
-    detail: Jun. 2008 - Mar. 2010
+    detail: Jun. 2008 to Mar. 2010
     i18n: pennine_date
   job:
     detail: IT Support Developer
     i18n: pennine_job
   icon: fa-clock-o
-
 - name:
     detail: Unviersity of Manchester
     i18n: college_msc
@@ -117,13 +110,12 @@
     detail: M.Sc. BioHealth Informatics
     i18n: college_des_msc
   date:
-    detail: Sep. 2008 - Dec. 2009
+    detail: Sep. 2008 to Dec. 2009
     i18n: college_date_msc
   job:
     detail: Postgraduate Student
     i18n: college_job_msc
   icon: fa-book
-
 - name:
     detail: Unviersity of Manchester
     i18n: college
@@ -131,7 +123,7 @@
     detail: B.Sc. (Hons) Computing for Business Applications
     i18n: college_des
   date:
-    detail: Sep. 2005 - Jun. 2008
+    detail: Sep. 2005 to Jun. 2008
     i18n: college_date
   job:
     detail: Undergraduate Student
