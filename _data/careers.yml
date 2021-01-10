@@ -1,11 +1,25 @@
 - name:
+    detail: KPMG in Bermuda
+    i18n: kpmg
+  desc:
+    detail: Business Analysis, Project Management, Data Management all in a day's work. Using the MS Power Platform to improve ways of working throughout the firm.
+    i18n: kpmg_des
+  date:
+    detail: May 2020 to date
+    i18n: kpmg_date
+  job:
+    detail: Assistant Manager, Business Analysis & Transformation
+    i18n: kpmg_job
+  icon: fa-bar-chart
+
+- name:
     detail: Nova Ltd.
     i18n: nova
   desc:
     detail: Designing and implementing analytics and reporting solutions for the Bermuda Hospitals Board together with Bermuda based financial services organisations.
     i18n: nova_des
   date:
-    detail: Feb. 2018 to date
+    detail: Feb. 2018 to Apr. 2020
     i18n: nova_date
   job:
     detail: Senior Business Intelligence Architect
