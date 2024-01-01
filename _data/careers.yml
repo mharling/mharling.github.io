@@ -1,11 +1,40 @@
 - name:
+    detail: Artex Risk Solutions
+    i18n: artex
+  desc:
+    detail: Business Analysis, Project Management, Data Management all centred around defining and driving operational efficiencies and continuous improvement initiatives across the business.
+    i18n: artex_des
+  date:
+    detail: January 2023 to date
+    i18n: artex_date
+  job:
+    detail: Head of Business Transformation
+    i18n: artex_job
+  icon: fa-bar-chart
+
+- name:
+    detail: KPMG in Bermuda
+    i18n: kpmg
+  desc:
+    detail: Responsible for the business analysis, transformation and support of operational processes, the enhancement of reporting and business intelligence for the firm, together with the oversight of the local Project Management Office.
+    i18n: kpmg_des
+  date:
+    detail: September 2021 to December 2022
+    i18n: kpmg_date
+  job:
+    detail: Manager, Innovation
+    i18n: kpmg_job
+  icon: fa-bar-chart
+
+
+- name:
     detail: KPMG in Bermuda
     i18n: kpmg
   desc:
     detail: Business Analysis, Project Management, Data Management all in a day's work. Using the MS Power Platform to improve ways of working throughout the firm.
     i18n: kpmg_des
   date:
-    detail: May 2020 to date
+    detail: May 2020 to September 2021
     i18n: kpmg_date
   job:
     detail: Assistant Manager, Business Analysis & Transformation
@@ -30,7 +59,7 @@
     detail: CACI Ltd.
     i18n: caci
   desc:
-    detail: "Promoted from a Managing Consultant and taking overall responsibility for projects together with delivering consultancy and pre-sales in a client facing role. I am one of the business unit's senior project leads and I have the managerial lead role in many projects with responsibility for projects with budgets from £250,000 to £1m."
+    detail: Promoted from a Managing Consultant and taking overall responsibility for projects together with delivering consultancy and pre-sales in a client facing role. I am one of the business unit's senior project leads and I have the managerial lead role in many projects with responsibility for projects with budgets from £250,000 to £1m.
     i18n: caci_des
   date:
     detail: Apr. 2017 to Feb. 2018
