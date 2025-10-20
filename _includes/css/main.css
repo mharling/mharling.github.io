@@ -678,3 +678,131 @@ footer .footer-below {
         transform: translateY(0);
     }
 }
+
+/* Certifications Grid Styles */
+
+#portfolio {
+    background: #fff;
+}
+
+.certifications-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 30px;
+    margin-top: 40px;
+    padding: 0 15px;
+}
+
+.certification-card {
+    background: #fff;
+    border-radius: 8px;
+    padding: 30px 20px;
+    text-align: center;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+    border-top: 4px solid #{{ site.color.primary }};
+    position: relative;
+    overflow: hidden;
+}
+
+.certification-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+}
+
+.certification-card:before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 4px;
+    background: linear-gradient(to right, #{{ site.color.primary }}, #{{ site.color.secondary }});
+    transform: scaleX(0);
+    transform-origin: left;
+    transition: transform 0.3s ease;
+}
+
+.certification-card:hover:before {
+    transform: scaleX(1);
+}
+
+.certification-icon {
+    font-size: 3em;
+    color: #{{ site.color.primary }};
+    margin-bottom: 20px;
+}
+
+.certification-title {
+    font-size: 1.1em;
+    font-weight: 600;
+    color: #{{ site.color.secondary }};
+    line-height: 1.4;
+    margin: 0;
+    min-height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.membership-section {
+    margin-top: 60px;
+    text-align: center;
+    padding: 40px 20px;
+    background: #f8f9fa;
+    border-radius: 8px;
+}
+
+.membership-section h3 {
+    font-size: 1.8em;
+    color: #{{ site.color.secondary }};
+    margin-bottom: 30px;
+    text-transform: uppercase;
+}
+
+.membership-logo {
+    max-width: 300px;
+    height: auto;
+    display: inline-block;
+    transition: transform 0.3s ease;
+}
+
+.membership-logo:hover {
+    transform: scale(1.05);
+}
+
+/* Responsive adjustments for certifications */
+@media (max-width: 768px) {
+    .certifications-grid {
+        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+        gap: 20px;
+    }
+    
+    .certification-card {
+        padding: 25px 15px;
+    }
+    
+    .certification-icon {
+        font-size: 2.5em;
+    }
+    
+    .certification-title {
+        font-size: 1em;
+        min-height: 40px;
+    }
+}
+
+@media (max-width: 480px) {
+    .certifications-grid {
+        grid-template-columns: 1fr;
+        gap: 15px;
+    }
+    
+    .membership-section {
+        padding: 30px 15px;
+    }
+    
+    .membership-logo {
+        max-width: 200px;
+    }
+}
